@@ -1,0 +1,33 @@
+.background{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.8)), url("/assets/contactImage2.png");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding-bottom: 0%;
+}
+.information{
+  text-align: center;
+  position: relative;
+  padding-top: 5%;
+  padding-bottom: 10%;
+  left: 0%;
+  font-size: 100%;
+  color: white;
+  top: 0%;
+}
+.first{
+  font-size: 400%;
+}
+.link{
+  color: white;
+  text-decoration: none;
+  font-size: 120%;
+}
+.phone{
+  font-size: 120%;
+}
+a:hover {
+  text-decoration: underline;
+}
